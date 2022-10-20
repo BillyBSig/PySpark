@@ -1,3 +1,3 @@
 # Spark
 
-This repo containing personal spark code learning
+This repo containing personal pyspark code
